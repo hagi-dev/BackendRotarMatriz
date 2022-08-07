@@ -3,7 +3,7 @@
 <img alt="Logo" align="right" src="https://www.fontana.com.ar/wp-content/uploads/2018/10/spring-boot-logo.png" width="40%" />
 
 
-- [Usar la Api](#Usando la api) – como usar la api.
+- [Usar la Api](##usando la api) – como usar la api.
 - [Documentacion-UI localhost](http://localhost:8080/swagger-ui.html) – como poder usar la api con la documentacion(swagger-ui).
 
 
@@ -37,7 +37,7 @@ con docker instalado solo correra los comandos de arriba
 
 - Post rotal matriz [http://localhost:8080/matrix/rotate/counterclockwise](http://localhost:8080/matrix/rotate/counterclockwise)
 - Get Bienvenida ala api [http://localhost:8080/](http://localhost:8080/)
-## Usando la api
+## usando la api
 
 **si desear correr la api sin docker tienes que tener instalado JDK version 11 de java** (pero si vas a correr la api con docker no es necesario instalar el jdk version 11 de java).
 
