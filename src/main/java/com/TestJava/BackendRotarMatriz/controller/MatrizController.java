@@ -23,7 +23,7 @@ public class MatrizController {
             return matrizService.rotateMatrixCounterclockwise(arrayNumbersTwoDimensional);
 
         }catch (Exception exception){
-            throw new RotateMatrixExceptions("{message: error or format send incorrect, array NxN}", HttpStatus.NOT_FOUND);
+            throw new RotateMatrixExceptions("{message: error or format send incorrect, array NxN, example [[1,2],[3,4]]}", HttpStatus.NOT_FOUND);
         }
     }
 }
