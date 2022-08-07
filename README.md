@@ -17,7 +17,7 @@ docker run -p 8080:8080  backend-rotar_matriz
 
 _luego ejecutar los comandos anteriores_
 
-Entonces abre en el navegador [http://localhost:8080/](http://localhost:8080/) y si te contesta con bienvenido ala "Bienvenido ala Api de rotacion de matriz" tu api esta funcinando bien.<br>
+Entonces abre en el navegador [http://localhost:8080/](http://localhost:8080/) y si te contesta con bienvenido ala "Bienvenido ala Api de rotacion de matriz" tu api esta funcionando bien.<br>
 Para entrar ala documentacion echa con swagger abre el navegador en [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) .
 
 <p align='center'>
@@ -26,7 +26,7 @@ Para entrar ala documentacion echa con swagger abre el navegador en [http://loca
 
 ### Comience de inmediato
 
-tienes que tener instalado docker para poder usar los contenedores o pudes descargarlo en
+tienes que tener instalado docker para poder usar los contenedores o puedes descargarlo en:
 - [para Windowns](https://docs.docker.com/desktop/install/windows-install/)
 - [para ubuntu](https://docs.docker.com/engine/install/ubuntu/)
 - [para Mac](https://docs.docker.com/desktop/install/mac-install/)</br>
